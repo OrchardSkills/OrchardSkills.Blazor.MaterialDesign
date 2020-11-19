@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardSkills.Blazor.MaterialDesign.Server", "OrchardSkills.Blazor.MaterialDesign\Server\OrchardSkills.Blazor.MaterialDesign.Server.csproj", "{6E2999A6-71B2-4047-8FAE-8456ED477CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardSkills.Blazor.MaterialDesign.Client", "OrchardSkills.Blazor.MaterialDesign\Client\OrchardSkills.Blazor.MaterialDesign.Client.csproj", "{CC05D641-91F7-4F8E-9642-DC2CE2CA90FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardSkills.Blazor.MaterialDesign.Shared", "OrchardSkills.Blazor.MaterialDesign\Shared\OrchardSkills.Blazor.MaterialDesign.Shared.csproj", "{53CCD2AE-BF6C-4F2D-B853-56C748196CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2999A6-71B2-4047-8FAE-8456ED477CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2999A6-71B2-4047-8FAE-8456ED477CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2999A6-71B2-4047-8FAE-8456ED477CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2999A6-71B2-4047-8FAE-8456ED477CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC05D641-91F7-4F8E-9642-DC2CE2CA90FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC05D641-91F7-4F8E-9642-DC2CE2CA90FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC05D641-91F7-4F8E-9642-DC2CE2CA90FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC05D641-91F7-4F8E-9642-DC2CE2CA90FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CCD2AE-BF6C-4F2D-B853-56C748196CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CCD2AE-BF6C-4F2D-B853-56C748196CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CCD2AE-BF6C-4F2D-B853-56C748196CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CCD2AE-BF6C-4F2D-B853-56C748196CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0986691-E7D9-4516-BBF7-99D094325AD0}
+	EndGlobalSection
+EndGlobal
