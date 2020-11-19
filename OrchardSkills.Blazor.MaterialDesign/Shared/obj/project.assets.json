@@ -8,35 +8,27 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Angul\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tha_i\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj",
       "projectName": "OrchardSkills.Blazor.MaterialDesign.Shared",
-      "projectPath": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj",
-      "packagesPath": "C:\\Users\\Angul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\obj\\",
+      "projectPath": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj",
+      "packagesPath": "C:\\Users\\tha_i\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Angul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\NuGet.Config",
+        "C:\\Users\\tha_i\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {

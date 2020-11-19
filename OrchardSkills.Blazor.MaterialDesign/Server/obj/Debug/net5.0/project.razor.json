@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\OrchardSkills.Blazor.MaterialDesign.Server.csproj",
+  "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\OrchardSkills.Blazor.MaterialDesign.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -17570,12 +17570,12 @@
   "RootNamespace": "OrchardSkills.Blazor.MaterialDesign.Server",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\Pages\\Error.cshtml",
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\OrchardSkills.Blazor.MaterialDesign.Client.csproj",
+  "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\OrchardSkills.Blazor.MaterialDesign.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -15358,58 +15358,58 @@
   "RootNamespace": "OrchardSkills.Blazor.MaterialDesign.Client",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\RedirectToLogin.razor",
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\RedirectToLogin.razor",
       "TargetPath": "Shared\\RedirectToLogin.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\LoginDisplay.razor",
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\Authentication.razor",
+      "TargetPath": "Pages\\Authentication.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\LoginDisplay.razor",
       "TargetPath": "Shared\\LoginDisplay.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Angul\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\Authentication.razor",
-      "TargetPath": "Pages\\Authentication.razor",
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     }
   ],

@@ -3831,11 +3831,12 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
+      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3869,11 +3870,12 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6640,11 +6642,12 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6734,45 +6737,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Angul\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tha_i\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\OrchardSkills.Blazor.MaterialDesign.Server.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\OrchardSkills.Blazor.MaterialDesign.Server.csproj",
       "projectName": "OrchardSkills.Blazor.MaterialDesign.Server",
-      "projectPath": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\OrchardSkills.Blazor.MaterialDesign.Server.csproj",
-      "packagesPath": "C:\\Users\\Angul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\obj\\",
+      "projectPath": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\OrchardSkills.Blazor.MaterialDesign.Server.csproj",
+      "packagesPath": "C:\\Users\\tha_i\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Angul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\NuGet.Config",
+        "C:\\Users\\tha_i\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\OrchardSkills.Blazor.MaterialDesign.Client.csproj": {
-              "projectPath": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\OrchardSkills.Blazor.MaterialDesign.Client.csproj"
+            "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\OrchardSkills.Blazor.MaterialDesign.Client.csproj": {
+              "projectPath": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Client\\OrchardSkills.Blazor.MaterialDesign.Client.csproj"
             },
-            "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj": {
-              "projectPath": "C:\\Users\\Angul\\source\\repos\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj"
+            "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj": {
+              "projectPath": "D:\\Documents\\GitHub\\OrchardSkills.Blazor.MaterialDesign\\OrchardSkills.Blazor.MaterialDesign\\Shared\\OrchardSkills.Blazor.MaterialDesign.Shared.csproj"
             }
           }
         }
