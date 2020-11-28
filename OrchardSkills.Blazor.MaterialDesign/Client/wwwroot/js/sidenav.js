@@ -1,27 +1,41 @@
-const sidenav = document.getElementById("sidenav-1");
-const sidenavInstance = "mdb.Sidenav.getInstance(sidenav);"
+setTimeout(() => {
 
-let innerWidth = null;
 
-const setMode = (e) => {
-  // Check necessary for Android devices
-  if (window.innerWidth === innerWidth) {
-    return;
-  }
+  const sidenav = document.getElementById("sidenav-1");
+  const instance = new mdb.Sidenav(sidenav)
+  let innerWidth = null;
 
-  innerWidth = window.innerWidth;
+  function setMode() {
+    // Check necessary for Android devices
+    if (window.innerWidth === innerWidth) {
+      return;
+    }
 
-  if (window.innerWidth < 1400) {
-    console.log("proba za width", window.innerWidth)
-    // sidenavInstance.changeMode("over");
-    // sidenavInstance.hide();
-  } else {
-    // sidenavInstance.changeMode("side");
-    // sidenavInstance.show();
-  }
-};
+    innerWidth = window.innerWidth;
 
-setMode();
+    if (window.innerWidth < 1400) {
+      instance.changeMode("over");
+      instance.hide();
+      console.log('test')
+    } else {
 
-// Event listeners
-window.addEventListener("resize", setMode);
+      instance.changeMode("side");
+      instance.show();
+    }
+  };
+  setMode();
+  // Event listeners
+  window.addEventListener("resize", setMode);
+
+
+  document.getElementById('slim-toggler').addEventListener('click', () => {
+    instance.toggleSlim();
+  })
+}, 2000);
+
+
+
+
+
+
+

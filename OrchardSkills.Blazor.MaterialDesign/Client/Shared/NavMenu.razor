@@ -1,153 +1,65 @@
 ﻿<!--Main Navigation-->
 <header>
-    <!-- Sidenav -->
-    <div id="sidenav" data-mode="side" class="sidenav" role="navigation" data-hidden="false" data-accordion="true">
-        <a class="ripple d-flex justify-content-center py-4" href="#!" data-ripple-color="primary">
-            <img id="MDB-logo" src="https://mdbootstrap.com/wp-content/uploads/2018/06/logo-mdb-jquery-small.png"
-                alt="MDB Logo" draggable="false" />
-        </a>
+    <!-- Sidenav-->
+    <div id="sidenav-1" class="sidenav" data-mode="side" data-slim="true" data-slim-collapsed="true" role="navigation">
 
+
+        <div class="text-center mt-4">
+            <a class=" ripple rounded-circle" data-color="light" href="#">
+                <img src="https://orchardskills.com/OrchardSkillsTheme/dist/icons/icon-84x84.png" alt="avatar"
+                    class="rounded-circle img-fluid" style="max-width: 40px;" /><span class="ml-1" style="font-size: 1.25rem;" data-slim="false">Orchard Skills</span>
+            </a>
+        </div>
+
+        <hr />
         <ul class="sidenav-menu">
             <li class="sidenav-item">
                 <a class="sidenav-link" href="">
-                    <i class="fas fa-chart-area fa-fw mr-3"></i>
-                    <span>Home</span>
+                    <i class="fas fa-home fa-fw mr-3"></i><span data-slim="false">Home</span>
                 </a>
             </li>
             <li class="sidenav-item">
                 <a class="sidenav-link" href="counter">
-                    <i class="fas fa-chart-area fa-fw mr-3"></i><span>Counter</span></a>
+                    <i class="fas fa-plus fa-fw mr-3"></i><span data-slim="false">Counter</span>
+                </a>
             </li>
             <li class="sidenav-item">
                 <a class="sidenav-link" href="fetchdata">
-                    <i class="fas fa-chart-area fa-fw mr-3"></i><span>Fetch Data</span></a>
+                    <i class="fas fa-chart-area fa-fw mr-3"></i><span data-slim="false">Fetch Data</span>
+                </a>
             </li>
-            <li class="sidenav-item">
-                <a class="sidenav-link"><i class="fas fa-cogs fa-fw mr-3"></i><span>Settings</span></a>
-                <ul class="sidenav-collapse">
-                    <li class="sidenav-item">
-                        <a class="sidenav-link">Profile</a>
-                    </li>
-                    <li class="sidenav-item">
-                        <a class="sidenav-link">Account</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="sidenav-item">
-                <a class="sidenav-link"><i class="fas fa-lock fa-fw mr-3"></i><span>Password</span></a>
-                <ul class="sidenav-collapse">
-                    <li class="sidenav-item">
-                        <a class="sidenav-link">Request password</a>
-                    </li>
-                    <li class="sidenav-item">
-                        <a class="sidenav-link">Reset password</a>
-                    </li>
-                </ul>
-            </li>
+
+
         </ul>
+        <div id="slim-toggler" class="sidenav-link" style="position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                display: flex;
+                justify-content: center;">
+            <i style="cursor: pointer;" class="fas fa-arrows-alt-h fa-3x"></i>
+        </div>
+
     </div>
-    <!-- Sidenav -->
+    <!-- Sidenav-->
 
     <!-- Navbar -->
     <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
         <!-- Container wrapper -->
         <div class="container-fluid">
-
-           
-
-            <!-- Right links -->
-            <ul class="navbar-nav ml-auto d-flex flex-row">
-                <!-- Notification dropdown -->
-                @* <LoginDisplay /> *@
-                <li class="nav-item dropdown">
-                    <a class="nav-link mr-3 mr-lg-0 dropdown-toggle hidden-arrow" href="#" id="navbarDropdownMenuLink"
-                        role="button" data-toggle="dropdown" aria-expanded="false">
-                        <i class="fas fa-bell"></i>
-                        <span class="badge rounded-pill badge-notification bg-danger">1</span>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Some news</a></li>
-                        <li><a class="dropdown-item" href="#">Another news</a></li>
-                        <li>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                        </li>
-                    </ul>
-                </li>
-
-                <!-- Icon -->
-                <li class="nav-item">
-                    <a class="nav-link mr-3 mr-lg-0" href="#">
-                        <i class="fas fa-fill-drip"></i>
-                    </a>
-                </li>
-                <!-- Icon -->
-                <li class="nav-item mr-3 mr-lg-0">
-                    <a class="nav-link" href="#">
-                        <i class="fab fa-github"></i>
-                    </a>
-                </li>
-
-                <!-- Icon dropdown -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link mr-3 mr-lg-0 dropdown-toggle hidden-arrow" href="#" id="navbarDropdown"
-                        role="button" data-toggle="dropdown" aria-expanded="false">
-                        <i class="united kingdom flag m-0"></i>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="united kingdom flag"></i>English
-                                <i class="fa fa-check text-success ml-2"></i></a>
-                        </li>
-                        <li>
-                            <hr class="dropdown-divider" />
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="poland flag"></i>Polski</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="china flag"></i>中文</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="japan flag"></i>日本語</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="germany flag"></i>Deutsch</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="france flag"></i>Français</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="spain flag"></i>Español</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="russia flag"></i>Русский</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="#"><i class="portugal flag"></i>Português</a>
-                        </li>
-                    </ul>
-                </li>
-
-                <!-- Avatar -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle hidden-arrow d-flex align-items-center" href="#"
-                        id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-expanded="false">
-                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img (31).jpg" class="rounded-circle"
-                            height="22" alt="" loading="lazy" />
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">My profile</a></li>
-                        <li><a class="dropdown-item" href="#">Settings</a></li>
-                        <li><a class="dropdown-item" href="#">Logout</a></li>
-                    </ul>
-                </li>
-            </ul>
-                        <!-- Toggler -->
+            <!-- Toggler -->
             <button data-toggle="sidenav" data-target="#sidenav-1" class="btn shadow-0 p-0 mr-3 d-block d-xxl-none"
                 aria-controls="#sidenav-1" aria-haspopup="true">
                 <i class="fas fa-bars fa-lg"></i>
             </button>
 
+            <!-- Right links -->
+            <ul class="navbar-nav ml-auto d-flex flex-row">
+                <!-- Notification dropdown -->
+                <li class="nav-item">
+                    <LoginDisplay />
+                </li>
+            </ul>
         </div>
         <!-- Container wrapper -->
     </nav>
@@ -158,15 +70,22 @@
 
 
 
+
+
+
+
 @code {
     private bool collapseNavMenu = true;
 
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
+
     private void ToggleNavMenu()
     {
         collapseNavMenu = !collapseNavMenu;
+
     }
 
-    
+
+
 }

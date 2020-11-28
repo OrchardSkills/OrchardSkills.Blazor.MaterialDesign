@@ -104,7 +104,7 @@ using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "D:\Documents\GitHub\OrchardSkills.Blazor.MaterialDesign\OrchardSkills.Blazor.MaterialDesign\Client\Shared\LoginDisplay.razor"
+#line 41 "D:\Documents\GitHub\OrchardSkills.Blazor.MaterialDesign\OrchardSkills.Blazor.MaterialDesign\Client\Shared\LoginDisplay.razor"
       
     private async Task BeginSignOut(MouseEventArgs args)
     {
